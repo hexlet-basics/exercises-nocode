@@ -1,0 +1,15 @@
+---
+
+name: Привет, Мир!
+theory: |
+
+  Lesson text
+
+instructions: |
+  Exercise text
+
+tips:
+  - |
+    []() — link1
+  - |
+    []() - link2
